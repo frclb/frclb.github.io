@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["V8MCMH5GJ7.com.furkan.rcperiodtracker"],
+        "components": [
+          { "/": "/nilu/p/*", "comment": "Nilu partner davet bağlantısı" }
+        ]
+      }
+    ]
+  }
+}
