@@ -4,7 +4,8 @@
       {
         "appIDs": ["V8MCMH5GJ7.com.furkan.rcperiodtracker"],
         "components": [
-          { "/": "/nilu/p/*", "comment": "Nilu partner davet bağlantısı" }
+          { "/": "/nilu/p/*", "comment": "Nilu partner davet bağlantısı" },
+          { "/": "/nilu/auth/*", "comment": "Nilu e-posta doğrulama ve şifre yenileme" }
         ]
       }
     ]

@@ -9,7 +9,8 @@ Alan adının kökü. Burada yalnızca üç şey var:
 - `index.html`: kök adresi Nilu'nun sitesine yönlendiriyor.
 - `.well-known/apple-app-site-association`: Apple, Universal Link
   doğrulamasını alan adının kökünde arıyor. Nilu'nun partner davet bağlantısı
-  (`frclb.github.io/nilu/p/#KOD`) bu dosya sayesinde uygulamayı doğrudan
-  açıyor. Uygulamadaki karşılığı `frclb/nilu` → `ios/Runner/Runner.entitlements`
+  (`frclb.github.io/nilu/p/#KOD`) ve e-posta doğrulama / şifre yenileme
+  bağlantısı (`frclb.github.io/nilu/auth/?mode=…`) bu dosya sayesinde
+  uygulamayı doğrudan açıyor. Uygulamadaki karşılığı `frclb/nilu` → `ios/Runner/Runner.entitlements`
   (`applinks:frclb.github.io`). `.nojekyll` olmadan GitHub Pages noktalı
   klasörü yayımlamaz.
