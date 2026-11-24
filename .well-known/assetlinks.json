@@ -1,0 +1,14 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.furkan.rcperiodtracker",
+    "sha256_cert_fingerprints": [
+      "32:F4:F9:E2:9A:A7:1D:F3:28:07:E2:90:F3:17:26:40:FF:88:3A:53:96:A4:80:F4:70:59:46:A1:D7:79:E0:30",
+      "EF:40:B4:7B:2F:1A:92:8E:4F:05:C2:B3:B3:1C:9B:AB:F3:5B:74:77:52:B4:8E:23:8E:88:6E:21:41:9F:B7:08",
+      "FA:AE:28:C5:32:87:A6:23:61:27:1C:8C:E9:F3:4E:8D:40:82:B8:12:DC:3E:41:8F:64:DF:B1:11:C9:01:82:9E",
+      "F4:2B:25:69:A6:3A:CB:04:2F:22:FF:BF:63:C7:63:58:BC:E5:97:7E:8C:BB:EB:B1:89:E5:9A:C4:A0:92:76:14",
+      "EE:BF:57:46:D6:54:E7:16:CD:1D:E7:C9:01:6A:12:84:FA:97:E5:35:C8:C6:E1:F3:3E:22:73:9B:A0:62:44:5D"
+    ]
+  }
+}]
